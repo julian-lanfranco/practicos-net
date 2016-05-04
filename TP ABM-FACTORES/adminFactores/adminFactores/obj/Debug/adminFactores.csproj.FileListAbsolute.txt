@@ -1,0 +1,11 @@
+c:\users\usuario\documents\visual studio 2012\Projects\adminFactores\adminFactores\bin\Debug\adminFactores.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\adminFactores\adminFactores\bin\Debug\adminFactores.exe
+c:\users\usuario\documents\visual studio 2012\Projects\adminFactores\adminFactores\bin\Debug\adminFactores.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\adminFactores\adminFactores\obj\Debug\adminFactores.Form1.resources
+c:\users\usuario\documents\visual studio 2012\Projects\adminFactores\adminFactores\obj\Debug\adminFactores.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2012\Projects\adminFactores\adminFactores\obj\Debug\adminFactores.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2012\Projects\adminFactores\adminFactores\obj\Debug\adminFactores.exe
+c:\users\usuario\documents\visual studio 2012\Projects\adminFactores\adminFactores\obj\Debug\adminFactores.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\adminFactores\adminFactores\bin\Debug\EntityFramework.dll
+c:\users\usuario\documents\visual studio 2012\Projects\adminFactores\adminFactores\bin\Debug\EntityFramework.xml
+c:\users\usuario\documents\visual studio 2012\Projects\adminFactores\adminFactores\obj\Debug\adminFactores.csprojResolveAssemblyReference.cache

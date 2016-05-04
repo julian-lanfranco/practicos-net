@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="proyectosModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="proyectosEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="nuevosFactores" EntityType="proyectosModel.nuevosFactores" />
+  </EntityContainer>
+  <EntityType Name="nuevosFactores">
+    <Key>
+      <PropertyRef Name="id_factor" />
+    </Key>
+    <Property Name="id_factor" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="detalle" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+</Schema>
