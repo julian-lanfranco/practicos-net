@@ -1,0 +1,17 @@
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\bin\Debug\Presentacion.exe.config
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\bin\Debug\Presentacion.exe
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\bin\Debug\Presentacion.pdb
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\bin\Debug\Entidades.dll
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\bin\Debug\Negocio.dll
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\bin\Debug\DATOS.dll
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\bin\Debug\EntityFramework.dll
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\bin\Debug\Entidades.pdb
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\bin\Debug\Negocio.pdb
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\bin\Debug\DATOS.pdb
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\bin\Debug\EntityFramework.xml
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\obj\Debug\Presentacion.Form1.resources
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\obj\Debug\Presentacion.exe
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Presentacion\obj\Debug\Presentacion.pdb

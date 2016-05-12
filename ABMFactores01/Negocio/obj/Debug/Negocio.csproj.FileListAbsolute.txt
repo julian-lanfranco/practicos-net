@@ -1,0 +1,11 @@
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Negocio\bin\Debug\Negocio.dll
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Negocio\bin\Debug\Negocio.pdb
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Negocio\bin\Debug\DATOS.dll
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Negocio\bin\Debug\Entidades.dll
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Negocio\bin\Debug\EntityFramework.dll
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Negocio\bin\Debug\DATOS.pdb
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Negocio\bin\Debug\Entidades.pdb
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Negocio\bin\Debug\EntityFramework.xml
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Negocio\obj\Debug\Negocio.dll
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\Negocio\obj\Debug\Negocio.pdb

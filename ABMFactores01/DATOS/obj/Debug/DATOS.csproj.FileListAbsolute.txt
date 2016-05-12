@@ -1,0 +1,10 @@
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\DATOS\bin\Debug\DATOS.dll.config
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\DATOS\bin\Debug\DATOS.dll
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\DATOS\bin\Debug\DATOS.pdb
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\DATOS\bin\Debug\Entidades.dll
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\DATOS\bin\Debug\EntityFramework.dll
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\DATOS\bin\Debug\Entidades.pdb
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\DATOS\bin\Debug\EntityFramework.xml
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\DATOS\obj\Debug\DATOS.dll
+c:\users\nuevo\documents\visual studio 2012\Projects\ABMFactores01\DATOS\obj\Debug\DATOS.pdb
